@@ -1,0 +1,27 @@
+.navbar-brand{
+  
+}
+.appContainer {
+  margin: 5%;
+}
+
+/* Edit buttons for edit and delete*/
+.delete {
+  width: 50px;
+  height: 40px;
+  font-size: 25px;
+  margin-left: 5%;
+  margin-top: 2%;
+  color: red;
+}
+.edit {
+  width: 50px;
+  height: 40px;
+  font-size: 25px;
+  margin-left: 2%;
+  margin-top: 2%;
+  color: orange;
+}
+.editDeleteButt{
+  margin-left: 1%;
+}
